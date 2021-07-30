@@ -7,6 +7,20 @@ A floating sauna raft that [I](https://github.com/Jaknil) designed and built at 
 
 [Youtube videos of its facilites](https://youtube.com/playlist?list=PLKSI6XgWmHYak1AXvxSxXbOTM4TtMFS2j)
 
-[All 3D models in solidworks 2011 format, unsorted](/drawings/Wasa_Sauna_Solidworks_files.zip)
+[All 3D models in solidworks 2011 format, unsorted](drawings/Wasa_Sauna_Solidworks_files.zip)
 
 [Norwegian article about the project](Wasa_Sauna_Tekniskt_Ukeblad.pdf)
+
+## Pictures
+
+![](pics/01500.jpg)
+
+![](pics/01700.jpg)
+
+![](pics/01800.jpg)
+
+![](pics/hole.JPG)
+
+![](pics/inside.JPG)
+
+
