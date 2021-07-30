@@ -17,6 +17,10 @@ A floating sauna raft that [I](https://github.com/Jaknil) designed and built at 
 
 [AirBnB: PDF copy of all reviews](Airbnb_All_reviews.pdf)
 
+[Slides: The initial project pitch and construction plan](presentations/Wasa_Sauna_Plans__construction_Breakdown.pdf)
+
+[Slides: Summary of the project](presentations/Wasa_Sauna_built.pdf)
+
 ## Pictures
 
 ![](pics/01500.jpg)
