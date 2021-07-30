@@ -5,7 +5,7 @@ A floating sauna raft that [I](https://github.com/Jaknil) designed and built at 
 
 [Google photos of the build process](https://photos.app.goo.gl/7zRKsu3oAkMGb1CF9) (Feb - June 2014)
 
-[Youtube videos of its facilites](https://youtube.com/playlistlist=PLKSI6XgWmHYak1AXvxSxXbOTM4TtMFS2j)
+[Youtube videos of its facilites](https://youtube.com/playlist?list=PLKSI6XgWmHYak1AXvxSxXbOTM4TtMFS2j)
 
 [All 3D models in solidworks 2011 format, unsorted](/drawings/Wasa_Sauna_Solidworks_files.zip)
 
