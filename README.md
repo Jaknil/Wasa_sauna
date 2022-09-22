@@ -21,7 +21,7 @@ A floating sauna raft that [I](https://github.com/Jaknil) designed and built at 
 
 [Slides: The initial project pitch and construction plan](presentations/Wasa_Sauna_Plans__construction_Breakdown.pdf)
 
-[Slides: Summary of the project](presentations/Wasa_Sauna_built.pdf)
+[Slides: Construction breakdown, before extentions were added](presentations/Wasa_Sauna_built.pdf)
 
 ## Pictures
 
