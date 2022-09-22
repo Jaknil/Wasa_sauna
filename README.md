@@ -9,6 +9,8 @@ A floating sauna raft that [I](https://github.com/Jaknil) designed and built at 
 
 [Youtube: Videos of its facilites](https://youtube.com/playlist?list=PLKSI6XgWmHYak1AXvxSxXbOTM4TtMFS2j)
 
+[Youtube: Electric motor remote control demonstration](https://youtu.be/BcCw5NP7hio)
+
 [3D models: Solidworks 2011 format, unsorted](drawings/Wasa_Sauna_Solidworks_files.zip)
 
 [Teknisk Ukeblad: Norwegian article about the project](Wasa_Sauna_Tekniskt_Ukeblad.pdf)
