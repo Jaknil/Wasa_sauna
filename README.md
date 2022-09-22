@@ -1,6 +1,8 @@
 # Wasa_sauna
 A floating sauna raft that [I](https://github.com/Jaknil) designed and built at [Fellesverkstedet](https://www.fellesverkstedet.no/) in Oslo.
 
+![](pics/01500.jpg)
+
 ## Links
 
 [Google photos: Promotional pictures of Wasa Sauna](https://photos.app.goo.gl/A7ASr5p1Vt55GASh6)
@@ -24,8 +26,6 @@ A floating sauna raft that [I](https://github.com/Jaknil) designed and built at 
 [Slides: Construction breakdown, before extentions were added](presentations/Wasa_Sauna_built.pdf)
 
 ## Pictures
-
-![](pics/01500.jpg)
 
 ![](pics/01700.jpg)
 
